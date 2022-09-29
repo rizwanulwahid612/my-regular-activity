@@ -4,7 +4,7 @@
     "id": 1,
     "image":"./Images/pexels-toa-heftiba-şinca-1194408.jpg",
     "name":"Study",
-    "activity": "2hr",
+    "activity": 12000,
     "description":"The act of making an effort to learn."
   },
   {
@@ -12,7 +12,7 @@
     "id": 1,
     "image":"./Images/pexels-lukas-rychvalsky-670786.jpg",
     "name":"Walking",
-    "activity": "3hr",
+    "activity": 1600,
     "description":"Walking is one of terrestrial to active."
   },
   {
@@ -20,7 +20,7 @@
     "id": 1,
     "image":"./Images/pexels-julian-jagtenberg-103123.jpg",
     "name":"Exercise",
-    "activity": "1hr",
+    "activity": 20000,
     "description":"The act of putting into action,practice."
   },
   {
@@ -28,7 +28,7 @@
     "id": 1,
     "image":"./Images/pexels-alexander-kovalev-3977908.jpg",
     "name":"Gaming",
-    "activity": "2hr",
+    "activity": 50000,
     "description":"the playing of games to teach something."
   },
   {
@@ -36,7 +36,7 @@
     "id": 1,
     "image":"./Images/pexels-kampus-production-5935258.jpg",
     "name":"Hangout",
-    "activity": "1hr",
+    "activity": 6000,
     "description":"Hangouts to keep in touch with a group."
   },
   {
@@ -44,7 +44,7 @@
     "id": 1,
     "image":"./Images/pexels-fauxels-3184292 (1).jpg",
     "name":"Business",
-    "activity": "3hr",
+    "activity": 18000,
     "description":"A good business plan guides you."
   }
 ]
