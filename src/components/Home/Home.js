@@ -6,7 +6,7 @@ import Cart from '../Cart/Cart';
 
 
 const Home = () => {
-    // carts
+  
     const [carts,setCarts]=useState([]);
     
     const [timeCount,setTimeCount]=useState([]);
@@ -20,7 +20,7 @@ const Home = () => {
         .then(data=>setTime(data))
     },[])
 
-    // console.log(carts);
+    
     useEffect(()=>{
         fetch("fakedata.json")
         .then(res=>res.json())
