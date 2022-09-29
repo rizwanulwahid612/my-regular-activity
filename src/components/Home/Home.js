@@ -92,7 +92,7 @@ const Home = () => {
   </div>
   <div className="collapse-content"> 
     <p>The useEffect Hook allows you to perform side effects in your components. 
-        Some examples of side effects are: fetching data, directly updating the DOM, and timers. 
+        Some examples of side effects.They are: fetching data, directly updating the DOM, and timers. 
         useEffect accepts two arguments. The second argument is optional.</p>
   </div>
 </div>
