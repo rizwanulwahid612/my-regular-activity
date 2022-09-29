@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import img1 from '../../images/photo-1620638306111-521756a2522f.jpg';
 
 const User = (props) => {
-    const notyfy=()=>toast("Successful ...!!");
+    const notyfy=()=>toast("Successfully send ...!!");
     const {time}=props;
     console.log(time)
 
