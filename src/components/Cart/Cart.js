@@ -5,7 +5,7 @@ import './Cart.css';
 
 const Cart = (props) => {
     const {cart}=props;
-    const {id,image,activity,name,description}=cart;
+    const {image,activity,name,description}=cart;
 
     const handleButtonTimeActivity=()=>{
     
