@@ -1,5 +1,5 @@
 
-import React, { useEffect, useState } from 'react';
+
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import img1 from '../../images/photo-1620638306111-521756a2522f.jpg';

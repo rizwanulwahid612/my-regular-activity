@@ -1,10 +1,10 @@
 import React from 'react';
-import User from '../User/User';
+
 import './Cart.css';
 
 
 const Cart = (props) => {
-    const {cart,setCarts,time,setTime,timeCount,setTimeCount}=props;
+    const {cart}=props;
     const {id,image,activity,name,description}=cart;
 
     const handleButtonTimeActivity=()=>{
